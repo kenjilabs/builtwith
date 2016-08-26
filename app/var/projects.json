@@ -1,7 +1,7 @@
 {
     "featured": [],
     "projects": [
-    {
+     {
         "permalink": "phver",
         "name": "PhVer",
         "summary": "Phalcon Version Release History",
@@ -1018,6 +1018,32 @@
                 "olympics",
                 "team usa"
             ]
-        }
+        },
+        {
+    "permalink": "bettycrocker-ramadan",
+    "name": "Ramadan With Betty", 
+    "summary": "Betty Crocker ramadan recipe contest", 
+    "description": "30 days, countless recipes. Submit your own Ramadan recipe using Betty Crocker and get inspired by many more",
+    "url": "https://ramadanwithbetty.com",
+    "info": "", 
+    "src": "", 
+    "submitter": "kenjilabs",
+    "submissionDate": "2016-08-27",
+    "images": [
+                {"name":"home.jpg",  "description":"Homepage"},
+                {"name":"list.jpg", "description":"Rcipies list page"},
+                {"name":"details.jpg", "description":"Recipe Detail Page"}
+            ]
+    "tags": [
+                "production",
+                "mysql",
+                "multi module",
+                "phalcon 2.0",
+                "php 5.6",
+                "Betty Crocker",
+                "contest",
+                "recipes list",
+            ]
+}
     ]
 }
